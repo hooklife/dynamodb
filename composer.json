@@ -1,0 +1,16 @@
+{
+    "name": "hooklife/dynamedb",
+    "description": "dynamedb-warpper",
+    "require": {
+        "aws/aws-sdk-php": "^3.69"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit -c phpunit.xml"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.laravel-china.org"
+        }
+    }
+}
